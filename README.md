@@ -4,8 +4,6 @@ MAGoogleMaps is a simple map project in which Gooogle maps in extended and now i
 
 ### How To Use
 
-For Google Map
-    
 * Just Drag and drop **MAGMSMapView.swift** in your project 
 * Drag **UIVIew** in a UIViewController and give it custom class like:
 
@@ -14,13 +12,20 @@ For Google Map
 
 ### Functionalities 
 
-- Current Location
-- Map Types.
-- Pin On Map
-    - Default
-    - With custom image
-    - With custom View
-- Draw Circle on given location
-- Find Address
-- Draw Route
-- Move Object
+- [Current Location](#current-location)
+- [Map Types](#map-types)
+- [Pin On Map](#pin-on-map)
+    - [Default](#default)
+    - [With custom image](#with-custom-image)
+    - [With custom View](#with-custom-view)
+- [Draw Circle on given location](#draw-circle-on-given-location)
+- [Find Address](#find-address)
+- [Draw Route](#draw-route)
+- [Move Object](#move-object)
+
+
+### Current Location
+
+```swift
+    self.mapView.currentLocation()
+```
