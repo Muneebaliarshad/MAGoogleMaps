@@ -97,13 +97,13 @@
 			path = MapPinView;
 			sourceTree = "<group>";
 		};
-		AA16AA0F20F7A6F800F884F8 /* Utility Classes */ = {
+		AA16AA0F20F7A6F800F884F8 /* Utility */ = {
 			isa = PBXGroup;
 			children = (
 				AA16AA1220F7AD2F00F884F8 /* Islamabad,Pakistan.gpx */,
 				AA16AA1020F7A6F800F884F8 /* Constants.swift */,
 			);
-			path = "Utility Classes";
+			path = Utility;
 			sourceTree = "<group>";
 		};
 		AA46349320F79C6200C19B8A = {
@@ -128,7 +128,7 @@
 			isa = PBXGroup;
 			children = (
 				AA16AA0220F7A56D00F884F8 /* Application */,
-				AA16AA0F20F7A6F800F884F8 /* Utility Classes */,
+				AA16AA0F20F7A6F800F884F8 /* Utility */,
 				AA16AA0320F7A58B00F884F8 /* Google Map */,
 				AA4634AB20F79C6400C19B8A /* Info.plist */,
 			);
