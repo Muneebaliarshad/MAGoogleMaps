@@ -9,9 +9,7 @@
 import Foundation
 
 
-//let GoogleAPIKey = "AIzaSyCDz5SaC1myLVTlZ7qbz2lWxKcV6Cja4NY"
-//let GoogleAPIKey = "AIzaSyAZihuGUt8XbhF2SrmCEomk0KyC9AnsBOU"
-let GoogleAPIKey = "AIzaSyC3RV4tHJoMBjAVsnprLDmVfvPNxk_bNcQ"
+let GoogleAPIKey = ""
 
 
 struct Title {
