@@ -1,5 +1,8 @@
 # MAGoogleMaps
 
+![Platform](https://img.shields.io/badge/Platform-iOS-orange.svg)
+![Languages](https://img.shields.io/badge/Language-Swift-orange.svg)
+
 MAGoogleMaps is a simple map project in which Gooogle maps in extended and now its easy to use
 
 ### How To Use
